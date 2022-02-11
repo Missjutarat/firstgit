@@ -1,1 +1,8 @@
-package firstgit
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Print("Wassup")
+
+}
